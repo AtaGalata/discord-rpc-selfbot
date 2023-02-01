@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://instagram.com/blckspidr"><img title="Made By AtaGalata" src="https://img.shields.io/badge/Made%20By-AtaGalata-green?style=for-the-badge"></a>
+  <a href="https://instagram.com/dxmr_ayberkk"><img title="Made By AtaGalata" src="https://img.shields.io/badge/Made%20By-AtaGalata-green?style=for-the-badge"></a>
 </p>
 <p align="center">
   <a href="https://discord.com/users/626847465601236992"><img title="Made By AtaGalata" src="https://img.shields.io/badge/Code-Discord%20RPC-blue"></a>
