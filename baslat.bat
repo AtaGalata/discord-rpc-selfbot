@@ -2,5 +2,5 @@ color b
 echo off
 title Discord-RPC
 cls
-nodemon app
+node app
 pause
