@@ -23,7 +23,7 @@ npm i && node app
 
 # KOD HAKKINDA BİLGİLER
 
-* Discord.js Sürümü : v13
+* Discord.js Sürümü : v12
 * Discord Uygulamasını İndirmenize Gerek Yoktur.
 * Glitch Destekler.
 * Telefon Destekler. (Hesap Tokeninizi Bilmeniz Gerekiyor)
