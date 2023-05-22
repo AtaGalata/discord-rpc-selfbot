@@ -1,4 +1,4 @@
-const { Client } = require('discord.js-selfbot-v13');
+const { Client } = require('discord.js-v12selfbot');
 const client = new Client({checkUpdate:false});
 const {token, applicID} = require("./cfg")
 const { RichPresence, Util} = require('discord.js-selfbot-rpc');
